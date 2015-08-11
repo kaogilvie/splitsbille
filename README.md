@@ -2,3 +2,8 @@
 ---------
 - Initial commit
 - README
+- working implementation using CSV files to read/write/configure
+
+6.16.2015
+---------
+- updated gitignore
