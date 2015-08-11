@@ -76,7 +76,7 @@ class Bill(object):
 				pass
 			else:
 				for receiver in self.receivers.values():
-					print(ower.name,ower.owes)
+					print(receiver.name, receiver.owes)
 
 					if receiver.owes == 0:
 						print('passed')
