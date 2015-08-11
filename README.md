@@ -7,3 +7,4 @@
 6.16.2015
 ---------
 - updated gitignore
+- updated README, got rid of tracking CSVs
